@@ -34,4 +34,7 @@ It is easy to use this custom animation. You can use this following procedure an
 
 There you go. You can now successfully animate your card layout like iOS Flip.
 You can contribute if you have simplier solution than mine.
-Thanks a lot for reading so far.
+
+Thanks a lot. 
+Happy Coding!
+Moin
