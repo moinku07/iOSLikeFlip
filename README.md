@@ -6,7 +6,7 @@ iOS like flip animation for Sencha Touch 2.0 and 2.1
 I created this custom made iOS like flip for Sencha touch 2.0. Later sencha touch introduced iOS like flip in recent versions.
 If still someone using Sencha Touch 2.0 or 2.1 framework wants iOS like Flip animation, please feel free to use this one.
 
-I is easy to use this custom animation. You can use this following procedure and example code below:
+It is easy to use this custom animation. You can use this following procedure and example code below:
 
 1. Put FlipOne.js and FlipTwo.js in fx/animation directory
 2. Put FullFlip.js in fx/layout/card directory
